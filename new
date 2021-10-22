@@ -1,0 +1,5 @@
+configure port 1/1/1
+no shutdown
+end
+admin save
+admin display-config
